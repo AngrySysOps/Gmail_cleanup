@@ -1,36 +1,68 @@
-Angry Admin Branding License (AABL)
 
-Copyright (c) 2025 Piotr Tarnawski (Angry Admin)
+# Angry Admin Branding License (AABL)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2025  
+**Piotr Tarnawski (Angry Admin)**  
+https://www.angrysysops.com
 
-The above copyright notice and this permission notice shall be included in all
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the “Software”), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all  
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
 
-Branding Requirements (additional to the permissions above):
+---
 
-1. Preserve the in-app text "Provided by Angry Admin" without alteration.
-2. Keep the hyperlinks to https://www.angrysysops.com, https://playhackmenow.com,
-   https://buymeacoffee.com/angrysysops, and the Angry Admin YouTube channel
-   wherever the UI or documentation exposes them.
-3. Include this Branding Requirements section (or a direct link to it) in any
-   derivative README, documentation bundle, download page, installer, or other
-   distribution channel.
-4. Reproduce the author credit: Piotr Tarnawski (Angry Admin) — @TheTechWorldPod.
+## Branding Requirements (additional conditions)
 
-If you publish a modified build, you must state that it is based on this project
-and still comply with the four requirements above. Failure to meet these
-conditions terminates the license granted above.
+The following branding conditions apply to any use, modification, redistribution,  
+packaging, or republishing of this Software or any derivative work, whether in  
+source or binary form:
+
+1. You must preserve the in-app text:  
+   **“Provided by Angry Admin”**  
+   exactly as written, without alteration.
+
+2. You must include and keep active, visible hyperlinks to:  
+   - https://www.angrysysops.com  
+   - https://playhackmenow.com  
+   - https://buymeacoffee.com/angrysysops  
+   - Angry Admin YouTube channel  
+   wherever the Software, user interface, or documentation displays such links.
+
+3. You must include this **Branding Requirements** section (or a direct link to it)  
+   in any redistributed README file, documentation bundle, installer, download  
+   page, package description, or any distribution channel where the Software  
+   is made available.
+
+4. You must reproduce the following author credit clearly and prominently:  
+   **Piotr Tarnawski (Angry Admin) — @TheTechWorldPod**
+
+---
+
+## Modified Builds
+
+If you publish, distribute, or make available a **modified build** of the Software:
+
+- You must clearly state that it is *based on* the original project.  
+- You must comply with **all four Branding Requirements** above.  
+
+Failure to meet these conditions **automatically and immediately terminates**
+the license granted to you under the Angry Admin Branding License (AABL).
+
+Upon termination, you must stop using, distributing, or publishing the Software  
+and remove any copies under your control.
+
+
