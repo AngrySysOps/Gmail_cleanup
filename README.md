@@ -1,4 +1,3 @@
-==== START README.md ====
 # Gmail Bulk Deleter (PyQt + IMAP)
 
 `gmail_cleanup.py` is a standalone PyQt5 desktop application that connects to Gmail over IMAP, shows how many messages live inside each label, and lets you bulk-delete them safely.  
@@ -224,4 +223,3 @@ If you redistribute this tool unchanged, please keep:
 
 This project uses the **Angry Admin Branding License (AABL)**.  
 See the full text in the [`LICENSE`](LICENSE) file.
-==== END README.md ====
